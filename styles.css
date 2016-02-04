@@ -1,5 +1,5 @@
 body {
-    background-image: "illuminati.jpg";
+    background-image: url('illuminati.jpg'); background-size: cover;
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
     text-align: center;
